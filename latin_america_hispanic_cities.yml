@@ -105,6 +105,253 @@ Mexico:
       - Guadalupe
   # Ciudad de México
 
+Colombia:
+  # Bogotá
+  Amazonas:
+    cities:
+      - Leticia
+  Antioquia:
+    cities:
+      - Medellín
+  Arauca:
+    cities:
+      - Arauca
+  Atlántico:
+    cities:
+      - Barranquilla
+  Bolívar:
+    cities:
+      - Cartagena
+  Boyacá:
+    cities:
+      - Tunja
+  Caldas:
+    cities:
+      - Manizales
+  Caquetá:
+    cities:
+      - Florencia
+  Casanare:
+    cities:
+      - Yopal
+  Cauca:
+    cities:
+      - Popayán
+  Cesar:
+    cities:
+      - Valledupar
+  Chocó:
+    cities:
+      - Quibdó
+  Córdoba:
+    cities:
+      - Montería
+  Cundinamarca:
+    cities:
+      - Bogotá
+  Guainía:
+    cities:
+      - Inírida
+  Guaviare:
+    cities:
+      - San José del Guaviare
+  Huila:
+    cities:
+      - Neiva
+  La Guajira:
+    cities:
+      - Riohacha
+  Magdalena:
+    cities:
+      - Santa Marta
+  Meta:
+    cities:
+      - Villavicencio
+  Nariño:
+    cities:
+      - Pasto
+  Norte de Santander:
+    cities:
+      - Cúcuta
+  Putumayo:
+    cities:
+      - Mocoa
+  Quindío:
+    cities:
+      - Armenia
+  Risaralda:
+    cities:
+      - Pereira
+  San Andrés y Providencia:
+    cities:
+      - San Andrés
+  Santander:
+    cities:
+      - Bucaramanga
+  Sucre:
+    cities:
+      - Sincelejo
+  Tolima:
+    cities:
+      - Ibagué
+  Valle del Cauca:
+    cities:
+      - Cali
+  Vaupés:
+    cities:
+      - Mitú
+  Vichada:
+    cities:
+      - Puerto Carreño
+
+Peru:
+# departamento
+  Amazonas:
+    hasc: AMA
+    cities:
+      - Chachapoyas
+  Áncash:
+    hasc: ANC
+    cities:
+      - Huaraz
+  Apurímac:
+    hasc: APU
+    cities:
+      - Abancay
+  Arequipa:
+    hasc: ARE
+    cities:
+      - Arequipa
+  Ayacucho:
+    hasc: AYA
+    cities:
+      - Ayacucho
+  Cajamarca:
+    hasc: CAJ
+    cities:
+      - Cajamarca
+  Callao:
+    hasc: CAL
+    cities:
+      - Callao
+  Cusco:
+    hasc: CUS
+    cities:
+      - Cuzco
+  Huancavelica:
+    hasc: HUV
+    cities:
+      - Huancavelica
+  Huánuco:
+    hasc: HUC
+    cities:
+      - Huánuco
+  Ica:
+    hasc: ICA
+    cities:
+      - Ica
+  Junín:
+    hasc: JUN
+    cities:
+      - Huancayo
+  La Libertad:
+    hasc: LAL
+    cities:
+      - Trujillo
+  Lambayeque:
+    hasc: LAM
+    cities:
+      - Chiclayo
+  Lima:
+    hasc: LIM
+    cities:
+      - Huacho
+  Loreto:
+    hasc: LOR
+    cities:
+      - Iquitos
+  Madre de Dios:
+    hasc: MDD
+    cities:
+      - Puerto Maldonado
+  Moquegua:
+    hasc: MOQ
+    cities:
+      - Moquegua
+  Pasco:
+    hasc: PAS
+    cities:
+      - Cerro de Pasco
+  Piura:
+    hasc: PIU
+    cities:
+      - Piura
+  Puno:
+    hasc: PUN
+    cities:
+      - Puno
+  San Martín:
+    hasc: SAM
+    cities:
+      - Moyobamba
+  Tacna:
+    hasc: TAC
+    cities:
+      - Tacna
+  Tumbes:
+    hasc: TUM
+    cities:
+      - Tumbes
+  Ucayali:
+    hasc: UCA
+    cities:
+      - Pucallpa
+  Municipalidad Metropolitana de Lima:
+    hasc: LMA
+    cities:
+      - Lima
+
+Bolivia:
+# departamento
+  Beni:
+    hasc: B
+    cities:
+      - Trinidad
+  Chuquisaca:
+    hasc: H
+    cities:
+      - Sucre
+  Cochabamba:
+    hasc: C
+    cities:
+      - Cochabamba
+  La Paz:
+    hasc: L
+    cities:
+      - La Paz
+      - El Alto
+  Oruro:
+    hasc: O
+    cities:
+      - Oruro
+  Pando:
+    hasc: N
+    cities:
+      - Cobija
+  Potosí:
+    hasc: P
+    cities:
+      - Potosí
+  Santa Cruz:
+    hasc: S
+    cities:
+      - Santa Cruz de la Sierra
+      - Montero
+  Tarija:
+    hasc: T
+    cities:
+      - Tarija
+
 Argentina:
   # Ciudad Autónoma de Buenos Aires
   Buenos Aires:
@@ -199,3 +446,69 @@ Argentina:
     hasc: TM
     cities:
       - San Miguel de Tucumán
+
+Chile:
+  Arica y Parinacota:
+    hasc: AP
+    cities:
+      - Arica
+  Tarapacá:
+    hasc: TA
+    cities:
+      - Iquique
+  Antofagasta:
+    hasc: AN
+    cities:
+      - Antofagasta
+  Atacama:
+    hasc: AT
+    cities:
+      - Copiapó
+  Coquimbo:
+    hasc: CO
+    cities:
+      - La Serena
+  Valparaíso:
+    hasc: VA
+    cities:
+      - Valparaíso
+  Metropolitana de Santiago:
+    hasc: RM
+    cities:
+      - Santiago
+  Libertador General Bernardo O'Higgins:
+    hasc: LI
+    cities:
+      - Rancagua
+  Maule:
+    hasc: ML
+    cities:
+      - Talca
+  Ñuble:
+    hasc: NB
+    cities:
+      - Chillán
+  Biobío:
+    hasc: BI
+    cities:
+      - Concepción
+  La Araucanía:
+    hasc: AR
+    cities:
+      - Temuco
+  Los Ríos:
+    hasc: LR
+    cities:
+      - Valdivia
+  Los Lagos:
+    hasc: LL
+    cities:
+      - Puerto Montt
+  Aysén del General Carlos Ibáñez del Campo:
+    hasc: AI
+    cities:
+      - Coyhaique
+  Magallanes y de la Antártica Chilena:
+    hasc: MA
+    cities:
+      - Punta Arenas
