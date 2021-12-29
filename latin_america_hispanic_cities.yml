@@ -358,6 +358,9 @@ Argentina:
     hasc: BA
     cities:
       - La Plata
+      - Mar del Plata
+      - Bahía Blanca
+      - Lanús
   Catamarca:
     hasc: CT
     cities:
@@ -370,10 +373,12 @@ Argentina:
     hasc: CH
     cities:
       - Rawson
+      - Comodoro Rivadavia
   Córdoba:
     hasc: CB
     cities:
       - Córdoba
+      - Río Cuarto
   Corrientes:
     hasc: CN
     cities:
@@ -402,6 +407,7 @@ Argentina:
     hasc: MZ
     cities:
       - Mendoza
+      - San Rafael
   Misiones:
     hasc: MN
     cities:
@@ -414,6 +420,7 @@ Argentina:
     hasc: RN
     cities:
       - Viedma
+      - San Carlos de Bariloche
   Salta:
     hasc: SA
     cities:
@@ -434,6 +441,7 @@ Argentina:
     hasc: SF
     cities:
       - Santa Fe
+      - Rosario
   Santiago del Estero:
     hasc: SE
     cities:
