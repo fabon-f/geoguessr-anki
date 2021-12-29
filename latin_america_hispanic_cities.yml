@@ -1,0 +1,201 @@
+Mexico:
+  Aguascalientes:
+    cities:
+      - Aguascalientes
+  Baja California:
+    cities:
+      - Mexicali
+      - Tijuana
+  Baja California Sur:
+    cities:
+      - La Paz
+  Campeche:
+    cities:
+      - San Francisco de Campeche(Campeche)
+  Chiapas:
+    cities:
+      - Tuxtla Gutiérrez
+  Chihuahua:
+    cities:
+      - Chihuahua
+      - Ciudad Juárez
+  Coahuila:
+    cities:
+      - Saltillo
+  Colima:
+    cities:
+      - Colima
+      - Manzanillo
+  Durango:
+    cities:
+      - Victoria de Durango
+  Guanajuato:
+    cities:
+      - Guanajuato
+      - León
+  Guerrero:
+    cities:
+      - Chilpancingo
+      - Acapulco
+  Hidalgo:
+    cities:
+      - Pachuca
+  Jalisco:
+    cities:
+      - Guadalajara
+  México:
+    cities:
+      - Toluca de Lerdo
+      - Ecatepec de Morelos
+  Michoacán:
+    cities:
+      - Morelia
+  Morelos:
+    cities:
+      - Cuernavaca
+  Nayarit:
+    cities:
+      - Tepic
+  Nuevo León:
+    cities:
+      - Monterrey
+  Oaxaca:
+    cities:
+      - Oaxaca
+  Puebla:
+    cities:
+      - Puebla
+  Querétaro:
+    cities:
+      - Querétaro
+  Quintana Roo:
+    cities:
+      - Chetumal
+      - Cancún
+  San Luis Potosí:
+    cities:
+      - San Luis Potosí
+  Sinaloa:
+    cities:
+      - Culiacán
+  Sonora:
+    cities:
+      - Hermosillo
+  Tabasco:
+    cities:
+      - Villahermosa
+  Tamaulipas:
+    cities:
+      - Ciudad Victoria
+      - Reynosa
+  Tlaxcala:
+    cities:
+      - Tlaxcala
+      - San Pablo del Monte
+  Veracruz:
+    cities:
+      - Xalapa
+      - Veracruz
+  Yucatán:
+    cities:
+      - Mérida
+  Zacatecas:
+    cities:
+      - Zacatecas
+      - Guadalupe
+  # Ciudad de México
+
+Argentina:
+  # Ciudad Autónoma de Buenos Aires
+  Buenos Aires:
+    hasc: BA
+    cities:
+      - La Plata
+  Catamarca:
+    hasc: CT
+    cities:
+      - San Fernando del Valle de Catamarca
+  Chaco:
+    hasc: CC
+    cities:
+      - Resistencia
+  Chubut:
+    hasc: CH
+    cities:
+      - Rawson
+  Córdoba:
+    hasc: CB
+    cities:
+      - Córdoba
+  Corrientes:
+    hasc: CN
+    cities:
+      - Corrientes
+  Entre Ríos:
+    hasc: ER
+    cities:
+      - Paraná
+  Formosa:
+    hasc: FM
+    cities:
+      - Formosa
+  Jujuy:
+    hasc: JY
+    cities:
+      - San Salvador de Jujuy
+  La Pampa:
+    hasc: LP
+    cities:
+      - Santa Rosa
+  La Rioja:
+    hasc: LR
+    cities:
+      - La Rioja
+  Mendoza:
+    hasc: MZ
+    cities:
+      - Mendoza
+  Misiones:
+    hasc: MN
+    cities:
+      - Posadas
+  Neuquén:
+    hasc: NQ
+    cities:
+      - Neuquén
+  Río Negro:
+    hasc: RN
+    cities:
+      - Viedma
+  Salta:
+    hasc: SA
+    cities:
+      - Salta
+  San Juan:
+    hasc: SJ
+    cities:
+      - San Juan
+  San Luis:
+    hasc: SL
+    cities:
+      - San Luis
+  Santa Cruz:
+    hasc: SC
+    cities:
+      - Río Gallegos
+  Santa Fe:
+    hasc: SF
+    cities:
+      - Santa Fe
+  Santiago del Estero:
+    hasc: SE
+    cities:
+      - Santiago del Estero
+  Tierra del Fuego:
+    hasc: TF
+    cities:
+      - Ushuaia
+  Tucumán:
+    hasc: TM
+    cities:
+      - San Miguel de Tucumán
