@@ -105,6 +105,96 @@ Mexico:
       - Guadalupe
   # Ciudad de México
 
+Guatemala:
+  Alta Verapaz:
+    hasc: AV
+    cities:
+      - Cobán
+  Baja Verapaz:
+    hasc: BV
+    cities:
+      - Salamá
+  Chimaltenango:
+    hasc: CM
+    cities:
+      - Chimaltenango
+  Chiquimula:
+    hasc: CQ
+    cities:
+      - Chiquimula
+  El Progreso:
+    hasc: PR
+    cities:
+      - Guastatoya
+  Escuintla:
+    hasc: ES
+    cities:
+      - Escuintla
+  Guatemala:
+    hasc: GU
+    cities:
+      - Ciudad de Guatemala
+  Huehuetenango:
+    hasc: HU
+    cities:
+      - Huehuetenango
+  Izabal:
+    hasc: IZ
+    cities:
+      - Puerto Barrios
+  Jalapa:
+    hasc: JA
+    cities:
+      - Jalapa
+  Jutiapa:
+    hasc: JU
+    cities:
+      - Jutiapa
+  Petén:
+    hasc: PE
+    cities:
+      - Flores
+  Quetzaltenango:
+    hasc: QZ
+    cities:
+      - Quetzaltenango
+  Quiché:
+    hasc: QC
+    cities:
+      -  	Santa Cruz del Quiché
+  Retalhuleu:
+    hasc: RE
+    cities:
+      - Retalhuleu
+  Sacatepéquez:
+    hasc: SA
+    cities:
+      - Antigua Guatemala
+  San Marcos:
+    hasc: SM
+    cities:
+      - San Marcos
+  Santa Rosa:
+    hasc: SR
+    cities:
+      - Cuilapa
+  Sololá:
+    hasc: SO
+    cities:
+      - Sololá
+  Suchitepéquez:
+    hasc: SU
+    cities:
+      - Mazatenango
+  Totonicapán:
+    hasc: TO
+    cities:
+      - Totonicapán
+  Zacapa:
+    hasc: ZA
+    cities:
+      - Zacapa
+
 Colombia:
   # Bogotá
   Amazonas:
@@ -203,6 +293,80 @@ Colombia:
   Vichada:
     cities:
       - Puerto Carreño
+
+Ecuador:
+  Azuay:
+    cities:
+      - Cuenca
+  Bolívar:
+    cities:
+      - Guaranda
+  Cañar:
+    cities:
+      - Azogues
+  Carchi:
+    cities:
+      - Tulcán
+  Chimborazo:
+    cities:
+      - Riobamba
+  Cotopaxi:
+    cities:
+      - Latacunga
+  El Oro:
+    cities:
+      - Machala
+  Esmeraldas:
+    cities:
+      - Esmeraldas
+  Galápagos:
+    cities:
+      - Puerto Baquerizo Moreno
+  Guayas:
+    cities:
+      - Guayaquil
+  Imbabura:
+    cities:
+      - Ibarra
+  Loja:
+    cities:
+      - Loja
+  Los Ríos:
+    cities:
+      - Babahoyo
+  Manabí:
+    cities:
+      - Portoviejo
+  Morona Santiago:
+    cities:
+      - Macas
+  Napo:
+    cities:
+      - Tena
+  Orellana:
+    cities:
+      - Puerto Francisco de Orellana
+  Pastaza:
+    cities:
+      - Puyo
+  Pichincha:
+    cities:
+    - Quito
+  Santa Elena:
+    cities:
+      - Santa Elena
+  Santo Domingo de los Tsáchilas:
+    cities:
+      - Santo Domingo
+  Sucumbíos:
+    cities:
+      - Nueva Loja
+  Tungurahua:
+    cities:
+      - Ambato
+  Zamora Chinchipe:
+    cities:
+      - Zamora
 
 Peru:
 # departamento
@@ -454,6 +618,84 @@ Argentina:
     hasc: TM
     cities:
       - San Miguel de Tucumán
+
+Uruguay:
+  Artigas:
+    hasc: AR
+    cities:
+      - Artigas
+  Canelones:
+    hasc: AR
+    cities:
+      - Canelones
+  Cerro Largo:
+    hasc: CL
+    cities:
+      - Melo
+  Colonia:
+    hasc: CO
+    cities:
+      - Colonia del Sacramento
+  Durazno:
+    hasc: DU
+    cities:
+      - Durazno
+  Flores:
+    hasc: FS
+    cities:
+      - Trinidad
+  Florida:
+    hasc: FD
+    cities:
+      - Florida
+  Lavalleja:
+    hasc: LA
+    cities:
+      - Minas
+  Maldonado:
+    hasc: MA
+    cities:
+      - Maldonado
+  Montevideo:
+    hasc: MO
+    cities:
+      - Montevideo
+  Paysandú:
+    hasc: PA
+    cities:
+      - Paysandú
+  Río Negro:
+    hasc: RN
+    cities:
+      - Fray Bentos
+  Rivera:
+    hasc: RV
+    cities:
+      - Rivera
+  Rocha:
+    hasc: RO
+    cities:
+      - Rocha
+  Salto:
+    hasc: SA
+    cities:
+      - Salto
+  San José:
+    hasc: SJ
+    cities:
+      - San José de Mayo
+  Soriano:
+    hasc: SO
+    cities:
+      - Mercedes
+  Tacuarembó:
+    hasc: TA
+    cities:
+      - Tacuarembó
+  Treinta y Tres:
+    hasc: TT
+    cities:
+      - Treinta y Tres
 
 Chile:
   Arica y Parinacota:
